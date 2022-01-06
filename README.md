@@ -1,4 +1,4 @@
-# minicraft
+# TicTakToe
 
 A new Flutter project.
 
